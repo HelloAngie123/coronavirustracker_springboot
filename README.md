@@ -4,9 +4,9 @@
 >* thymeleaf
 >* bootstrap
 >
->**时      长：**1: 00: 40
+>**时      长：** 1: 00: 40
 >
->**教程地址：**https://www.youtube.com/watch?v=8hjNG9GZGnQ
+>**教程地址：** https://www.youtube.com/watch?v=8hjNG9GZGnQ
 
 
 
@@ -16,5 +16,5 @@
 
 > **实现效果**
 
-![image-20220117004059201](README.assets/image-20220117004059201.png)
+![image-20220117004059201](images/image-20220117004059201.png)
 
